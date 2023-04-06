@@ -1,2 +1,2 @@
-# ADstudy
-Collection of resources I come accros throughout of my study
+# Active Directory Study Resources
+Collection of resources I come across throughout of my study
