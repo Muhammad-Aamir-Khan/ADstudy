@@ -1,5 +1,5 @@
 # Active Directory Study Resources
-Collection of resources I come across throughout of my study
+Collection of resources I come across throughout of my study.
 
 https://zer1t0.gitlab.io/posts/attacking_ad/#st <br>
 https://www.thehacker.recipes/<br>
