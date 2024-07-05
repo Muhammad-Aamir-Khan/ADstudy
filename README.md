@@ -1,5 +1,5 @@
 # Active Directory Study Resources(for Beginners)
-Best resources I come across throughout of my study.
+Best resources I come across throughout of my AD study.
 
 https://zer1t0.gitlab.io/posts/attacking_ad/#st <br>
 https://www.thehacker.recipes/<br>
